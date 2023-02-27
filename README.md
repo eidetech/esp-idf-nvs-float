@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 | Supported Targets | ESP32 | ESP32-C3 | ESP32-C6 | ESP32-H2 | ESP32-S2 | ESP32-S3 |
 | ----------------- | ----- | -------- | -------- | -------- | -------- | -------- |
 
@@ -82,3 +83,6 @@ Restarting now.
 Restart counter will increment on each run.
 
 To reset the counter, erase the contents of flash memory using `idf.py erase-flash`, then upload the program again as described above.
+=======
+# esp-idf-nvs-float
+>>>>>>> e4dd4c6266d29f621e0ada06fb8f7af9ef5ab097
